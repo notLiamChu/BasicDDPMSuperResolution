@@ -1,0 +1,1 @@
+Welcome to my introductory tutorial form Basic DDPM Super Resolution. This serves as an introductory notebook for conducting SR with Diffusion based models. This is intended to be a sequel to the VanillaDiffusion notebook. There will be a follow-up notebook for improved SR.
